@@ -9,8 +9,8 @@ Un chat mínimo para terminal, hecho en PowerShell puro y sin dependencias. Crea
 
 ## Uso
 
-1. Haz doble clic en `chat.bat` (o ejecuta `powershell -ExecutionPolicy Bypass -File .\\\\\\\\chat.ps1`).
-2. Elige tu nombre. Sin espacios (se cambian por `\\\\\\\_`), máximo 12 letras. Si lo dejas vacío, te toca algo como `Shyguy42`.
+1. Haz doble clic en `chat.bat` (o ejecuta `powershell -ExecutionPolicy Bypass -File .\chat.ps1`).
+2. Elige tu nombre. Sin espacios (se cambian por `_`), máximo 12 letras. Si lo dejas vacío, te toca algo como `Shyguy42`.
 3. Elige qué hacer:
 
    * **Crear una sala:** le pones nombre y los demás la ven en su lista.
